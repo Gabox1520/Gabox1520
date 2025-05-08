@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning sciences and technology
 
-- 📫 How to reach me 8552-2582
+- 📫 How to reach me +506 8552-2582
 
 ---
 
