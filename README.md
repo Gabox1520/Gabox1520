@@ -3,7 +3,7 @@
 <!--
 **Gabox1520/Gabox1520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://i.makeagif.com/media/4-07-2021/huzntj.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcristiano-ronaldo-gifs&psig=AOvVaw0xpstaNxU94iigW9bv4uJk&ust=1746818821372000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCn9rTNlI0DFQAAAAAdAAAAABAE" style="height: 100% , width:100%">
+<img src="https://i.makeagif.com/media/4-07-2021/huzntj.gif" style="height: 100%; width: 100%">
 <h1 align="center">yepaaaaaaaaa 👋, Me llamo chiquii (Gabriel Ramírez)</h1>
 <h3 align="center">Estoy en el ultimo año del CCCSP (Colegio Científico Costarricense sede San Pedro). Me interesa jugar volleyball, jugar valorant y pasar tiempo con mis amigos.</h3>
 
@@ -31,7 +31,7 @@
 
 <h1 align="center">STATS</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jyin28" alt="ravisolanki" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Gabox1520" alt="ravisolanki" /> </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jyin28&theme=gotham&show_icons=true" />
 
