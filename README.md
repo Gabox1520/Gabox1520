@@ -4,7 +4,7 @@
 **Gabox1520/Gabox1520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="https://tenor.com/bPha3.gif" style="height: 100%; width: 100%">
+<img src="https://media.tenor.com/NUeQ4SLh440AAAAM/saudi-league-al-shabab.gif" style="height: 100%; width: 100%">
 
 <h1 align="center">¡Yepaaaaa 👋, Me llamo Chiquii (Gabriel Ramírez)</h1>
 <h3 align="center">Estoy en el último año del CCCSP (Colegio Científico Costarricense sede San Pedro). Me interesa jugar volleyball, jugar Valorant y pasar tiempo con mis amigos.</h3>
